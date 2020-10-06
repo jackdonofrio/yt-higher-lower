@@ -135,6 +135,8 @@ animals
 ghosts
 pokimane
 league of legends
+bad bunny
+wwe
 song
 video
 music
@@ -264,4 +266,3 @@ old school dance
 cover songs
 sad songs
 latest punjabi
-
