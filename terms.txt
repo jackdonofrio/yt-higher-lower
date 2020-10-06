@@ -277,3 +277,10 @@ hustler
 hipster
 hackathon
 programming
+guitar
+electric
+acoustic
+amplifier
+bass
+synth
+piano
